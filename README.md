@@ -1,3 +1,3 @@
 # snakegame
 
-一个java实现的建议贪吃蛇
+一个java实现的简易贪吃蛇
